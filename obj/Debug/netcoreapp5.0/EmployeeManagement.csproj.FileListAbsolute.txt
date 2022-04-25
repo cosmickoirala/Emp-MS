@@ -1,0 +1,205 @@
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\appsettings.Development.json
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\appsettings.json
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\EmployeeManagement.exe
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\EmployeeManagement.deps.json
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\EmployeeManagement.runtimeconfig.json
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\EmployeeManagement.runtimeconfig.dev.json
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\EmployeeManagement.dll
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\ref\EmployeeManagement.dll
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\EmployeeManagement.pdb
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\EmployeeManagement.Views.dll
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\EmployeeManagement.Views.pdb
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\Humanizer.dll
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\Microsoft.Data.SqlClient.dll
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\Microsoft.Data.Sqlite.dll
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.dll
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\Microsoft.Extensions.DependencyModel.dll
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\Microsoft.Identity.Client.dll
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\Microsoft.IdentityModel.Logging.dll
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\Microsoft.IdentityModel.Protocols.dll
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\Microsoft.IdentityModel.Tokens.dll
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\Newtonsoft.Json.dll
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\SQLitePCLRaw.batteries_v2.dll
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\SQLitePCLRaw.nativelibrary.dll
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\SQLitePCLRaw.core.dll
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\System.Configuration.ConfigurationManager.dll
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\System.Diagnostics.DiagnosticSource.dll
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\System.Runtime.Caching.dll
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\System.Security.Cryptography.ProtectedData.dll
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\obj\Debug\netcoreapp5.0\EmployeeManagement.csprojAssemblyReference.cache
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\obj\Debug\netcoreapp5.0\EmployeeManagement.GeneratedMSBuildEditorConfig.editorconfig
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\obj\Debug\netcoreapp5.0\EmployeeManagement.AssemblyInfoInputs.cache
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\obj\Debug\netcoreapp5.0\EmployeeManagement.AssemblyInfo.cs
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\obj\Debug\netcoreapp5.0\EmployeeManagement.csproj.CoreCompileInputs.cache
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\obj\Debug\netcoreapp5.0\EmployeeManagement.MvcApplicationPartsAssemblyInfo.cache
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\obj\Debug\netcoreapp5.0\EmployeeManagement.RazorAssemblyInfo.cache
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\obj\Debug\netcoreapp5.0\EmployeeManagement.RazorAssemblyInfo.cs
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\obj\Debug\netcoreapp5.0\staticwebassets\EmployeeManagement.StaticWebAssets.Manifest.cache
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\obj\Debug\netcoreapp5.0\staticwebassets\EmployeeManagement.StaticWebAssets.xml
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\obj\Debug\netcoreapp5.0\scopedcss\bundle\EmployeeManagement.styles.css
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\obj\Debug\netcoreapp5.0\EmployeeManagement.TagHelpers.input.cache
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\obj\Debug\netcoreapp5.0\EmployeeManagement.TagHelpers.output.cache
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\obj\Debug\netcoreapp5.0\EmployeeManagement.RazorCoreGenerate.cache
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\obj\Debug\netcoreapp5.0\Razor\Views\Department\Add.cshtml.g.cs
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\obj\Debug\netcoreapp5.0\Razor\Views\Department\Delete.cshtml.g.cs
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\obj\Debug\netcoreapp5.0\Razor\Views\Department\Detail.cshtml.g.cs
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\obj\Debug\netcoreapp5.0\Razor\Views\Department\Edit.cshtml.g.cs
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\obj\Debug\netcoreapp5.0\Razor\Views\Department\Index.cshtml.g.cs
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\obj\Debug\netcoreapp5.0\Razor\Views\Employee\Add.cshtml.g.cs
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\obj\Debug\netcoreapp5.0\Razor\Views\Employee\Delete.cshtml.g.cs
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\obj\Debug\netcoreapp5.0\Razor\Views\Employee\Detail.cshtml.g.cs
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\obj\Debug\netcoreapp5.0\Razor\Views\Employee\Edit.cshtml.g.cs
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\obj\Debug\netcoreapp5.0\Razor\Views\Employee\Index.cshtml.g.cs
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\obj\Debug\netcoreapp5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\obj\Debug\netcoreapp5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\obj\Debug\netcoreapp5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\obj\Debug\netcoreapp5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\obj\Debug\netcoreapp5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\obj\Debug\netcoreapp5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\obj\Debug\netcoreapp5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\obj\Debug\netcoreapp5.0\EmployeeManagement.RazorTargetAssemblyInfo.cache
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\obj\Debug\netcoreapp5.0\EmployeeManagement.RazorTargetAssemblyInfo.cs
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\obj\Debug\netcoreapp5.0\EmployeeManagement.Views.pdb
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\obj\Debug\netcoreapp5.0\EmployeeManagement.csproj.CopyComplete
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\obj\Debug\netcoreapp5.0\EmployeeManagement.dll
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\obj\Debug\netcoreapp5.0\ref\EmployeeManagement.dll
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\obj\Debug\netcoreapp5.0\EmployeeManagement.pdb
+E:\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\obj\Debug\netcoreapp5.0\EmployeeManagement.genruntimeconfig.cache
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\appsettings.Development.json
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\appsettings.json
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\EmployeeManagement.exe
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\EmployeeManagement.deps.json
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\EmployeeManagement.runtimeconfig.json
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\EmployeeManagement.runtimeconfig.dev.json
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\EmployeeManagement.dll
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\EmployeeManagement.pdb
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\EmployeeManagement.Views.dll
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\EmployeeManagement.Views.pdb
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\Humanizer.dll
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\Microsoft.Data.SqlClient.dll
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\Microsoft.Data.Sqlite.dll
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.dll
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\Microsoft.Extensions.DependencyModel.dll
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\Microsoft.Identity.Client.dll
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\Microsoft.IdentityModel.Logging.dll
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\Newtonsoft.Json.dll
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\SQLitePCLRaw.batteries_v2.dll
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\SQLitePCLRaw.nativelibrary.dll
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\SQLitePCLRaw.core.dll
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\System.Configuration.ConfigurationManager.dll
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\System.Diagnostics.DiagnosticSource.dll
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\System.Runtime.Caching.dll
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\bin\Debug\netcoreapp5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\obj\Debug\netcoreapp5.0\EmployeeManagement.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\obj\Debug\netcoreapp5.0\EmployeeManagement.AssemblyInfoInputs.cache
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\obj\Debug\netcoreapp5.0\EmployeeManagement.AssemblyInfo.cs
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\obj\Debug\netcoreapp5.0\EmployeeManagement.csproj.CoreCompileInputs.cache
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\obj\Debug\netcoreapp5.0\EmployeeManagement.MvcApplicationPartsAssemblyInfo.cache
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\obj\Debug\netcoreapp5.0\EmployeeManagement.RazorAssemblyInfo.cache
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\obj\Debug\netcoreapp5.0\EmployeeManagement.RazorAssemblyInfo.cs
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\obj\Debug\netcoreapp5.0\staticwebassets\EmployeeManagement.StaticWebAssets.Manifest.cache
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\obj\Debug\netcoreapp5.0\scopedcss\bundle\EmployeeManagement.styles.css
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\obj\Debug\netcoreapp5.0\EmployeeManagement.TagHelpers.input.cache
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\obj\Debug\netcoreapp5.0\EmployeeManagement.TagHelpers.output.cache
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\obj\Debug\netcoreapp5.0\EmployeeManagement.RazorCoreGenerate.cache
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\obj\Debug\netcoreapp5.0\Razor\Views\Department\Add.cshtml.g.cs
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\obj\Debug\netcoreapp5.0\Razor\Views\Department\Delete.cshtml.g.cs
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\obj\Debug\netcoreapp5.0\Razor\Views\Department\Detail.cshtml.g.cs
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\obj\Debug\netcoreapp5.0\Razor\Views\Department\Edit.cshtml.g.cs
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\obj\Debug\netcoreapp5.0\Razor\Views\Department\Index.cshtml.g.cs
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\obj\Debug\netcoreapp5.0\Razor\Views\Employee\Add.cshtml.g.cs
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\obj\Debug\netcoreapp5.0\Razor\Views\Employee\Delete.cshtml.g.cs
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\obj\Debug\netcoreapp5.0\Razor\Views\Employee\Detail.cshtml.g.cs
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\obj\Debug\netcoreapp5.0\Razor\Views\Employee\Edit.cshtml.g.cs
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\obj\Debug\netcoreapp5.0\Razor\Views\Employee\Index.cshtml.g.cs
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\obj\Debug\netcoreapp5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\obj\Debug\netcoreapp5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\obj\Debug\netcoreapp5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\obj\Debug\netcoreapp5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\obj\Debug\netcoreapp5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\obj\Debug\netcoreapp5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\obj\Debug\netcoreapp5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\obj\Debug\netcoreapp5.0\EmployeeManagement.RazorTargetAssemblyInfo.cache
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\obj\Debug\netcoreapp5.0\EmployeeManagement.RazorTargetAssemblyInfo.cs
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\obj\Debug\netcoreapp5.0\EmployeeManagement.Views.pdb
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\obj\Debug\netcoreapp5.0\EmployeeManagement.csproj.CopyComplete
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\obj\Debug\netcoreapp5.0\EmployeeManagement.dll
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\obj\Debug\netcoreapp5.0\ref\EmployeeManagement.dll
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\obj\Debug\netcoreapp5.0\EmployeeManagement.pdb
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\obj\Debug\netcoreapp5.0\EmployeeManagement.genruntimeconfig.cache
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\obj\Debug\netcoreapp5.0\EmployeeManagement.csproj.AssemblyReference.cache
+E:\Study Materials\MBM\6th Sem\Net Centric Computing\Repo\Cosmic.Koirala\EmployeeManagement\obj\Debug\netcoreapp5.0\refint\EmployeeManagement.dll
